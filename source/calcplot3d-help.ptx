@@ -2401,7 +2401,7 @@
 		 <p><url href="https://www.youtube.com/watch?v=sP9TESllJfw">Creating Dynamic Figures in LibreTexts using CalcPlot3D</url></p></introduction>
 		 <section>
 		     <title>Dynamic Figures with No Controls</title>
-			 <p>These figures can be rotated if they are 3D, and can be manipulated in other ways with the mouse and keystrokes, just as if they were in the full CalcPlot3D app.</p>
+			 <p>These figures can be rotated if they are 3D, and can be manipulated in other ways with the mouse and keystrokes---just as if they were in the full CalcPlot3D app.</p>
 			 <p>But in this type of dynamic figure only the 3D plot window is displayed, while all the menus and controls of the CalcPlot3D app are hidden.  See <xref ref="figure-dynamicfigure1" /> below.</p>
 			 <figure xml:id="figure-dynamicfigure1">
 				<caption>A dynamic figure</caption>
