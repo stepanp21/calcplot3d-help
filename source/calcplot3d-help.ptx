@@ -51,7 +51,7 @@
     <section>
         <title>Rotating the 3D Plot &amp; Key Shortcuts</title>
         <p>Click on the 3D plot window and drag the mouse on the plot. 
-        This should rotate the surface in the direction you move the mouse about the focus point (the origin, by default).
+        This should rotate the surface in the direction you move the mouse about the focus point (this is the origin, by default).
         To reset the viewpoint to the original one, press the <alert>Home</alert> key (<em>fn-left arrow</em> on Mac).</p>
         <p>Useful key shortcuts are shown below for rotating the plot and many other features (on any device with a real keyboard).</p>
 		<sidebyside>
